@@ -41,8 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=apple,windows,linux" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,anaconda" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,anaconda,mysql" /><br>
 </div>
 
 <br/>
