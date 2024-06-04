@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,javascript,typescript,nodejs,vscode,github,git,r" /><br>
-    <img src="https://skillicons.dev/icons?i=python,jupter,c,java,mysql,PowerBI,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=python,jupter notebook,c,java,mysql,PowerBI,anaconda" /><br>
 </div>
 
 <br/>
