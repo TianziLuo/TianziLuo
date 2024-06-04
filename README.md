@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a FinTech Company**
  
- 🌱 I’m currently learning **Docker, AWS, Git**
+ 🌱 I’m currently learning **React, AWS, Git**
 
 ✨ I'm a Chinese girl currently in the US.
 
